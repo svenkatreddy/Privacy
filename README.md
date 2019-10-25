@@ -1,7 +1,14 @@
 # Privacy
 Opt out of sharing your private information with certain business affiliates
 
+## Finanacial Institutions
 [Visa](#visa)
+[American Express](#american-express)
+[Discover](#discover)
+[Chase](#chase)
+
+## Retail Institutions
+[Target](#target)
 
 Most of the links are automated, require some info to opt out. 
 Most of the phone numbers are automated, require some info to opt out.
@@ -17,7 +24,7 @@ https://usa.visa.com/legal/privacy-policy-opt-out.html
 https://marketingreportoptout.visa.com/OPTOUT/request.do
 
 
-## American Express:
+## American Express
 
 ### Details
 https://www.americanexpress.com/us/legal-disclosures/privacy-notices.html
@@ -28,7 +35,7 @@ For American Express prepaid cards (the cards you get in rebates for instance) y
 For American Express business account holders call this number: 1-855-297-7748
 
 
-## Discover:
+## Discover
 
 ### Details
 https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html
@@ -40,7 +47,8 @@ For discover bank accounts call this number: 1-866-402-1048
 For discover student loan accounts call this number: 1-800-788-3368
 For discover home equity loans call this number: 1-888-347-1137
 
-## Chase (Chase bank or credit cards issued by Chase):
+## Chase
+(Chase bank or credit cards issued by Chase)
 
 ### Details
 https://www.chase.com/digital/resources/privacy-security/questions/policy-information
@@ -50,7 +58,7 @@ Call 1-888-868-8618 to decline your data sharing with Chase Affiliates (that num
 
 ## Retail Institutions
 
-## Target:
+## Target
 
 ### Details
 https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix?clkid=8835ebc4Nf77511e9a3b542010a246f18&lnm=360518&afid=Slickdeals_LLC&ref=tgt_adv_xasd0002
