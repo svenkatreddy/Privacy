@@ -5,7 +5,7 @@ Most of the links are automated, require some info to opt out.
 
 Most of the phone numbers are automated, require some info to opt out.
 
-## Finanacial Institutions
+## Financial Institutions
 
 [Visa](#visa)
 
@@ -21,7 +21,7 @@ Most of the phone numbers are automated, require some info to opt out.
 
 
 
-## Finanacial Institutions
+## Financial Institutions
 
 ## Visa
 
