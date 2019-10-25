@@ -40,7 +40,7 @@ https://www.americanexpress.com/us/legal-disclosures/privacy-notices.html
 ### Phone numbers to Opt out
 For American Express credit card holders call this number: 1-855-297-7748
 
-For American Express prepaid cards (the cards you get in rebates for instance) you can find several numbers being listed here (click me [americanexpress.com]).
+For American Express prepaid cards (the cards you get in rebates for instance) you can find several numbers being listed here [americanexpress.com](https://www.americanexpress.com/content/dam/amex/us/staticassets/pdf/legal-disclosures/privacy-notices/American-Express-Privacy-Notice-AEPC.pdf).
 
 For American Express business account holders call this number: 1-855-297-7748
 
