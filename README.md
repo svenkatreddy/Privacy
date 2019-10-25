@@ -51,8 +51,11 @@ https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html
 
 ### Phone numbers to Opt out
 For discover credit card holders call this number: 1-800-225-5202
+
 For discover bank accounts call this number: 1-866-402-1048
+
 For discover student loan accounts call this number: 1-800-788-3368
+
 For discover home equity loans call this number: 1-888-347-1137
 
 ## Chase
@@ -62,7 +65,8 @@ For discover home equity loans call this number: 1-888-347-1137
 https://www.chase.com/digital/resources/privacy-security/questions/policy-information
 
 ### Phone numbers to Opt out
-Call 1-888-868-8618 to decline your data sharing with Chase Affiliates (that number is in the link above). You need to have your last 4 of your social security number handy and your Chase credit card number/chase account number when calling. It's all automated.
+Call 1-888-868-8618 to decline your data sharing with Chase Affiliates (that number is in the link above). 
+You need to have your last 4 of your social security number handy and your Chase credit card number/chase account number when calling. It's all automated.
 
 ## Retail Institutions
 
