@@ -26,21 +26,21 @@ Most of the phone numbers are automated, require some info to opt out.
 ## Visa
 
 ### Details
-https://usa.visa.com/legal/privacy-policy-opt-out.html
+[Link to details](https://usa.visa.com/legal/privacy-policy-opt-out.html)
 
 ### Link to Opt out
-https://marketingreportoptout.visa.com/OPTOUT/request.do
+[Link to opt out](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 
 
 ## American Express
 
 ### Details
-https://www.americanexpress.com/us/legal-disclosures/privacy-notices.html
+[Link to details](https://www.americanexpress.com/us/legal-disclosures/privacy-notices.html)
 
 ### Phone numbers to Opt out
 For American Express credit card holders call this number: 1-855-297-7748
 
-For American Express prepaid cards (the cards you get in rebates for instance) you can find several numbers being listed here https://www.americanexpress.com/content/dam/amex/us/staticassets/pdf/legal-disclosures/privacy-notices/American-Express-Privacy-Notice-AEPC.pdf
+For American Express prepaid cards (the cards you get in rebates for instance) you can find several numbers being listed here [Link to PDF](https://www.americanexpress.com/content/dam/amex/us/staticassets/pdf/legal-disclosures/privacy-notices/American-Express-Privacy-Notice-AEPC.pdf)
 
 For American Express business account holders call this number: 1-855-297-7748
 
@@ -48,7 +48,7 @@ For American Express business account holders call this number: 1-855-297-7748
 ## Discover
 
 ### Details
-https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html
+[Link to details](https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html)
 
 
 ### Phone numbers to Opt out
@@ -64,7 +64,7 @@ For discover home equity loans call this number: 1-888-347-1137
 (Chase bank or credit cards issued by Chase)
 
 ### Details
-https://www.chase.com/digital/resources/privacy-security/questions/policy-information
+[Link to details](https://www.chase.com/digital/resources/privacy-security/questions/policy-information)
 
 ### Phone numbers to Opt out
 Call 1-888-868-8618 to decline your data sharing with Chase Affiliates (that number is in the link above). 
@@ -76,7 +76,7 @@ You need to have your last 4 of your social security number handy and your Chase
 ## Target
 
 ### Details
-https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix
+[Link to details](https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix)
 
 ### Phone numbers to Opt out
 Call 1-800-968-4001 to decline your data sharing with Target Affiliates (that number is in the link above). 
