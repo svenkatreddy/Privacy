@@ -2,12 +2,17 @@
 Opt out of sharing your private information with certain business affiliates
 
 ## Finanacial Institutions
+
 [Visa](#visa)
+
 [American Express](#american-express)
+
 [Discover](#discover)
+
 [Chase](#chase)
 
 ## Retail Institutions
+
 [Target](#target)
 
 Most of the links are automated, require some info to opt out. 
