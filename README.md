@@ -16,6 +16,7 @@ Opt out of sharing your private information with certain business affiliates
 [Target](#target)
 
 Most of the links are automated, require some info to opt out. 
+
 Most of the phone numbers are automated, require some info to opt out.
 
 ## Finanacial Institutions
