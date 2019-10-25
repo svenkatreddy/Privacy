@@ -76,7 +76,7 @@ You need to have your last 4 of your social security number handy and your Chase
 ## Target
 
 ### Details
-https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix?clkid=8835ebc4Nf77511e9a3b542010a246f18&lnm=360518&afid=Slickdeals_LLC&ref=tgt_adv_xasd0002
+https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix
 
 ### Phone numbers to Opt out
 Call 1-800-968-4001 to decline your data sharing with Target Affiliates (that number is in the link above). 
@@ -85,4 +85,4 @@ You need to have your last 4 of your social security number handy and your Targe
 
 
 #### Special Thanks
-This project is inspired from post on slickdeals (link)[https://slickdeals.net/f/13476325-psa-opting-out-of-sharing-your-privacy-info-with-companies-details-inside]. Thanks to Genius4sho.
+This project is inspired from post on slickdeals [link](https://slickdeals.net/f/13476325-psa-opting-out-of-sharing-your-privacy-info-with-companies-details-inside). Thanks to Genius4sho.
