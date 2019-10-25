@@ -39,7 +39,9 @@ https://www.americanexpress.com/us/legal-disclosures/privacy-notices.html
 
 ### Phone numbers to Opt out
 For American Express credit card holders call this number: 1-855-297-7748
+
 For American Express prepaid cards (the cards you get in rebates for instance) you can find several numbers being listed here (click me [americanexpress.com]).
+
 For American Express business account holders call this number: 1-855-297-7748
 
 
@@ -66,6 +68,7 @@ https://www.chase.com/digital/resources/privacy-security/questions/policy-inform
 
 ### Phone numbers to Opt out
 Call 1-888-868-8618 to decline your data sharing with Chase Affiliates (that number is in the link above). 
+
 You need to have your last 4 of your social security number handy and your Chase credit card number/chase account number when calling. It's all automated.
 
 ## Retail Institutions
@@ -76,7 +79,10 @@ You need to have your last 4 of your social security number handy and your Chase
 https://www.target.com/c/target-debit-card-privacy-policy/-/N-4tgix?clkid=8835ebc4Nf77511e9a3b542010a246f18&lnm=360518&afid=Slickdeals_LLC&ref=tgt_adv_xasd0002
 
 ### Phone numbers to Opt out
-Call 1-800-968-4001 to decline your data sharing with Target Affiliates (that number is in the link above). You need to have your last 4 of your social security number handy and your Target credit/debit card number when calling the number. It's all automated.
+Call 1-800-968-4001 to decline your data sharing with Target Affiliates (that number is in the link above). 
+
+You need to have your last 4 of your social security number handy and your Target credit/debit card number when calling the number. It's all automated.
+
 
 #### Special Thanks
 This project is inspired from post on slickdeals (link)[https://slickdeals.net/f/13476325-psa-opting-out-of-sharing-your-privacy-info-with-companies-details-inside]. Thanks to Genius4sho.
